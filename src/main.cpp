@@ -2,8 +2,6 @@
 #include <iostream>
 #include "fun.h"
 
-int main() {
-    power(2,4);
-    
+int main() {    
     return 0;
 }
